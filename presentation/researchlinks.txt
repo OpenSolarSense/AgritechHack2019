@@ -2,3 +2,9 @@ https://www.semtech.com/lora/lora-applications/smart-agriculture?hsCtaTracking=6
 https://www.electronicshub.org/solar-energy-projects-ideas/#Solar_Microcontroller_Projects
 https://cloudblogs.microsoft.com/2018/11/29/feeding-the-world-with-ai-driven-agriculture-innovation/
 https://msit.powerbi.com/view?r=eyJrIjoiY2FmN2M2N2YtYzBmNS00N2RmLTlhYTUtNmI0NDY4Njg2MTMzIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9
+
+
+Soil and moisture:
+https://www.alibaba.com/showroom/soil-moisture-sensor.html / 15 - 215 $ / avg 65 $
+https://www.vegetronix.com/Products/THERM200/
+https://www.alphaomega-electronics.com/en/productos-medio-ambiente/1269-sm150-sensor-humedad-de-suelo.html / 215,00 €
